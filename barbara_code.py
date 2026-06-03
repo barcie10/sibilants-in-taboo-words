@@ -435,4 +435,13 @@ axes[1].grid(axis="y", alpha=0.3)
 plt.tight_layout()
 plt.savefig("sibilant_density_results.png", dpi=200, bbox_inches="tight")
 plt.show()
-print("\nFigure saved as sibilant_density_results.png")
+print("\nFigure saved as sibilant_density_results.png") 
+
+
+# 10. Export derived data
+os.makedirs("barbara_data", exist_ok=True)
+taboo_df.to_csv("barbara_data/taboo_words_analyzed.csv", index=False)
+match_df.to_csv("barbara_data/matched_pairs.csv", index=False)
+neutral_pool_df.to_csv("barbara_data/neutral_candidate_pool.csv", index=False)
+print("\nDerived CSVs saved to barbara_data/")
+
