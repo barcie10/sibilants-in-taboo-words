@@ -4,7 +4,7 @@ Sibilants in English Taboo Words: A Quantitative Analysis
 
 Compares sibilant phoneme density between a curated list of 29 English
 taboo words and a matched set of 29 affectively neutral words drawn from
-Warriner et al. (2013) and SUBTLEX-US (Brysbaert & New, 2009).
+Warriner et al. (2013) and SUBTLEX-US (Brysbaert & New, 2009).  
 
 Pipeline:
   1. Taboo word list compilation
