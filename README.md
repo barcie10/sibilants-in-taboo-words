@@ -4,7 +4,7 @@ A quantitative study testing whether English taboo words contain a higher
 density of sibilant phonemes than neutral words matched on length and frequency.
 
 **Author:** Barbara Cieślak  
-**Course:** Python Final Project, Adam Mickiewicz University  
+**Course:** Python Final Project, Adam Mickiewicz University   
 **Date:** 2026
 
 ## Research question
