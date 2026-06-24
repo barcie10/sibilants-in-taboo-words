@@ -59,7 +59,7 @@ significance with n = 29 pairs.
 
 ## Acknowledgments
 
-This project was developed with assistance from Claude (Anthropic) for 
+This project was developed with assistance from Claude for 
 Python syntax scaffolding, debugging, and methodological discussion. 
 All study design decisions, the taboo word list, data interpretation, 
 and write-up are my own.
